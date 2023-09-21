@@ -1,5 +1,6 @@
-# Sultan POS
-Minimarket POS (Point Of Sales) software writen in C++ with Qt Framework. The main target of Sultan POS is minimarket and able to run on Raspberry Pi.
+# easyPOS
+Forked from https://github.com/apinprastya/sultan
+Minimarket POS (Point Of Sales) software writen in C++ with Qt Framework.
 
 ## Feature
 * Networked (uses websocket)
@@ -22,20 +23,18 @@ Minimarket POS (Point Of Sales) software writen in C++ with Qt Framework. The ma
 * Export / import database to file and Google drive
 * And many
 
+## In perspective
+* Adding languages: Español, Русский
+* PostgreSQL Support
+* Generation of documents for accounting
+* Possibility of connecting processing
+* Cryptocurrency usage
+
 ## Compile
-* Please check [Wiki Compile](https://github.com/apinprastya/sultan/wiki/Compile)
-
-## Screenshot
-* Please check [Wiki Screenshot](https://github.com/apinprastya/sultan/wiki/Screenshot)
-
-## Contact
-Any question/support please contact me apin.klas@gmail.com
-
-## Note
-Please consider to give a star when clone this repository
+* Please check [Wiki Compile](https://github.com/romariogland/easypos/wiki/Compile)
 
 ## License
-GPL. See [LICENSE](https://github.com/apinprastya/sultan/blob/master/LICENSE)
+GPL. See [LICENSE](https://github.com/romariogland/easypos/blob/master/LICENSE)
 
 ## Contribution
-Any contribution are welcome
+Any contribution are welcome (f.e. Francias, Deutch and other languages support)
